@@ -7,7 +7,7 @@ end entity;
 
 architecture behavior of sumador is 
 
-signal aux: bit;
+signal aux: bit; --EDITE ESTA LINEA --
 begin
 
 S<= aux xor cin;
