@@ -1,2 +1,2 @@
 # MiRepo
-Este es mi repositorio de pruebaz
+Este es mi repositorio de pruebas
